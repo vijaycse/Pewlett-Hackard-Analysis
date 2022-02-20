@@ -30,7 +30,7 @@ GROUP BY ut.title
 ORDER BY COUNT (ut.emp_no) DESC;
 
 
-<---- END DELIVERABLE 1 ----->
+---- END DELIVERABLE 1 ----->
 
 ---- DELIVERABLE 2 ----
 SELECT DISTINCT ON (e.emp_no) e.emp_no,
